@@ -87,6 +87,11 @@
     padding: 30px 0;
     font-weight: 300;
   }
+
+  .titulo-blog .container h1 a .LogoImg{
+    width: 50px;
+    border-radius: 50%;
+  }
   
   .titulo-blog .container h1 a:hover{
     color: #8b919c;
@@ -127,23 +132,6 @@
     color: #8b919c;
   }
   
-  /*MAIN*/
-  
-  /*Banner*/
-  
-  /*
-  .main .banner{
-    padding-bottom: 20px;
-    border-bottom: 1px solid #f0f0f0;
-  }
-  
-  .main .banner .container .banner-principal{
-    width: 100%;
-  }
-  
-  .main .banner .container .banner-principal img{
-    width: 100%;
-  } */
   
   /*Blog*/
   
